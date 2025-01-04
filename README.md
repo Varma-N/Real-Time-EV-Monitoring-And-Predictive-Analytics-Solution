@@ -87,6 +87,12 @@ Real-Time-EV-Fleet-Monitoring-and-Predictive-Analytics-Solution/
 ├── static/              # Static files (CSS, JS, images)
 ├── license              # Python dependencies
 ├── README.md            # Project documentation
+├── models
+|   ├── battery_health_model.pkl   # Battery health predictor model
+|   └──Tamil_EV_Stations.pkl       # Location predictor model
+├── dataset
+|   ├── Battery_Status_Dataset.csv
+|   └── Tamilnadu_EV_Stations.csv
 └── database/            # Database files
 ```
 
