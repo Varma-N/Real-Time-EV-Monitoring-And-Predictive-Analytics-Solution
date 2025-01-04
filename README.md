@@ -57,8 +57,8 @@ The **Real-Time EV Fleet Monitoring and Predictive Analytics Solution** provides
 ### Installation Steps  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ezhilezhil/Real-Time-EV-Fleet-Monitoring-and-Predictive-Analytics-Solution.git
-   cd Real-Time-EV-Fleet-Monitoring-and-Predictive-Analytics-Solution
+   git clone https://github.com/Varma-N/Real-Time-EV-Monitoring-And-Predictive-Analytics-Solution/
+   cd Real-Time-EV-Monitoring-And-Predictive-Analytics-Solution
    ```
 2. Install dependencies:  
    ```bash
@@ -80,9 +80,9 @@ The **Real-Time EV Fleet Monitoring and Predictive Analytics Solution** provides
 Real-Time-EV-Fleet-Monitoring-and-Predictive-Analytics-Solution/
 ├── app.py               # Main application script
 ├── templates/           # HTML files
-│   ├── index.html       # Dashboard page
-│   ├── vehicle_Registration.html
-│   ├── battery_health.html
+│   ├── histogram.html       # Dashboard page
+│   ├── vehicle_registration.html
+│   ├── Battery Health Status.html
 │   └── ...              # Other HTML files
 ├── static/              # Static files (CSS, JS, images)
 ├── license              # Python dependencies
